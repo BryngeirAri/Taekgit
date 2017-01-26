@@ -15,4 +15,9 @@ the way to prevent this from happening is to use grounded mats on workbenches, g
 5. Hvað þarf að hafa í huga við val á spennugjöfum?
 That the power supply provides enough power for the installed components and allow for other components that may be added at a later time.
 
+6. Hver eru hin 6 skref við bilanagreiningu og viðgerðir?
+Idendify the problem, establish a theory of probable caust, test said theory, establish a plan of action to sesolve the problem and implement the soloution.
+verify full system functionality and if applicable, implement preventive measures, document findings, actions and outcomes so others or yourself can use them later.
+
+
 
