@@ -12,4 +12,7 @@ verjast því þegar unnið er með tölvubúnað?
 Electrostatic discharge can occur when there is a buildup of an electric charge that exists on a surface which comes into contact with another differently charged surface, 
 the way to prevent this from happening is to use grounded mats on workbenches, grounded floor mats in the working area, using an antistatic wrist strap when working on computers and by keeping all the components in antistatic bags until you are ready to install them.
 
+5. Hvað þarf að hafa í huga við val á spennugjöfum?
+That the power supply provides enough power for the installed components and allow for other components that may be added at a later time.
+
 
