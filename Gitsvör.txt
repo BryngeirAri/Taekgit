@@ -7,3 +7,9 @@ Read only memory is used in computers and other electronic devices, data stored 
 3. Hvað er fyrirbyggjandi viðhald?
 Árleg skoðun og endurnýjun á ákveðnum hlutum, þegar tengt tölvum þá er það að halda henni ví góðu standi með því t.d að þrífa hana reglulega (rykreynsa og fleira.
 
+4. Fyrir hvað stendur skammstöfunin ESD, hvað er það og hvaða leiðir höfum við til að
+verjast því þegar unnið er með tölvubúnað?
+Electrostatic discharge can occur when there is a buildup of an electric charge that exists on a surface which comes into contact with another differently charged surface, 
+the way to prevent this from happening is to use grounded mats on workbenches, grounded floor mats in the working area, using an antistatic wrist strap when working on computers and by keeping all the components in antistatic bags until you are ready to install them.
+
+
