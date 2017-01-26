@@ -3,3 +3,7 @@ Random-access memory and is the place in the compututing device where operating 
 
 2. Fyrir hvað stendur skammstöfunin ROM? Útskýrðu hvað ROM er.
 Read only memory is used in computers and other electronic devices, data stored in rom can only be modifed slowly with difficulty or not at all,and is mainly used to store firmware.
+
+3. Hvað er fyrirbyggjandi viðhald?
+Árleg skoðun og endurnýjun á ákveðnum hlutum, þegar tengt tölvum þá er það að halda henni ví góðu standi með því t.d að þrífa hana reglulega (rykreynsa og fleira.
+
