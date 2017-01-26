@@ -24,6 +24,11 @@ Nefnið dæmi um báðar gerðir af spurningum.
 A closed ended question is a question you can only answer with a yes or a no such as, can you turn the computer on? or is the computer connected to an energy outlet?
 While open ended questions are ones that require more then one word answers such as, what components do you have installed on your computer?
 
+8. Hvað eru jaðartæki?
+A component that is not installed directly into the computer such as a USB device which is used to store data, webcam, mouse and keyboard.
+
+
+
 
 
 
