@@ -19,5 +19,11 @@ That the power supply provides enough power for the installed components and all
 Idendify the problem, establish a theory of probable caust, test said theory, establish a plan of action to sesolve the problem and implement the soloution.
 verify full system functionality and if applicable, implement preventive measures, document findings, actions and outcomes so others or yourself can use them later.
 
+7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu?
+Nefnið dæmi um báðar gerðir af spurningum.
+A closed ended question is a question you can only answer with a yes or a no such as, can you turn the computer on? or is the computer connected to an energy outlet?
+While open ended questions are ones that require more then one word answers such as, what components do you have installed on your computer?
+
+
 
 
