@@ -1,2 +1,5 @@
 1. Fyrir hvað stendur skammstöfunin RAM? Útskýrðu hvað RAM er. 
 Random-access memory and is the place in the compututing device where operating system, application programs and data in current use are kept so they can be quickly reached by the device´s processor
+
+2. Fyrir hvað stendur skammstöfunin ROM? Útskýrðu hvað ROM er.
+Read only memory is used in computers and other electronic devices, data stored in rom can only be modifed slowly with difficulty or not at all,and is mainly used to store firmware.
